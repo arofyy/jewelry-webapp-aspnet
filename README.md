@@ -1,4 +1,4 @@
-# ecom-jewelry-webapp-using-aspnet
+# ecom-jewelry-webapp
 This repository is for practicing the GitHub Flow.
 # 💎 E-Commerce Jewelry Website using ASP.NET
 
