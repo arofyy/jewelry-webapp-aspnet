@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# jewelry-webapp-aspnet
+jewelry-webapp-using-aspnet
